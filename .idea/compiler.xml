@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="karatedsl070" target="1.5" />
+      <module name="karatedsl070" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
